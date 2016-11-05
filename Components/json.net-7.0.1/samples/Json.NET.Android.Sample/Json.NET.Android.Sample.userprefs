@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A15E29B4-3BA6-4946-AD78-B8AFDC09884D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Tomsk/Programs/WorkScreen.cs">
+    <Files>
+      <File FileName="../../../../Tomsk/Programs/WorkScreen.cs" Line="365" Column="2" />
+      <File FileName="../../../../Tomsk/Programs/TablesStruc.cs" Line="30" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Json.NET.Android.Sample" expanded="True" />
+          <Node name="Tomsk" expanded="True">
+            <Node name="Tomsk" expanded="True">
+              <Node name="Programs" expanded="True">
+                <Node name="WorkScreen.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Json.NET.Android.Sample PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

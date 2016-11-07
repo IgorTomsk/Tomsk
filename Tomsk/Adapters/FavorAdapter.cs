@@ -20,11 +20,12 @@ namespace Tomsk
 
 		// Best to public GLOBAL
 		public static SqliteConnection ConnectionDB1 { get; set; }
-		public static string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "SCity.db3");
+		public static string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "SelectCity.db3");
 
 		List<FavorCity> items;
 		Activity context;
 		public FavorAdapter(Activity context, List<FavorCity> items)
+
 			: base()
 		{
 			this.context = context;

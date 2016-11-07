@@ -164,6 +164,7 @@ namespace Tomsk
 								using (var cmd = ConnectionDB.CreateCommand())
 								{
 									cmd.CommandText = "select * from FavorCity where Id = " + t.Id.ToString();
+
 									using (var reader = cmd.ExecuteReader())
 									{
 										is_favor = 0;

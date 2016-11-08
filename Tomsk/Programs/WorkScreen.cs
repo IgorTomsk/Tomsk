@@ -34,12 +34,11 @@ namespace Tomsk
 	public class WorkScreen : Activity
 	{
 		public static SqliteConnection ConnectionDB { get; set; }
-		public static string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "SelectCity.db3");
+		public static string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "SelectCity1.db3");
 		public static bool showCity;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
-
 			LoadBase();
 
 			base.OnCreate(savedInstanceState);
